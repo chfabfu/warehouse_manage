@@ -32,7 +32,7 @@ pyinstaller -F -w --icon=tu_biao/tubiao.ico --add-data "tu_biao;tu_biao" --add-b
 
 - Python 3.8+
 - PyQt5
-- Windows 7 及以上
+- Windows 7 及以上 Windows 系统
 
 ## 开源协议
 
